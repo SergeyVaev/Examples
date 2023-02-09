@@ -1,0 +1,15 @@
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/bin/Debug/net6.0/Examples001_HelloCansole
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/bin/Debug/net6.0/Examples001_HelloCansole.deps.json
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/bin/Debug/net6.0/Examples001_HelloCansole.runtimeconfig.json
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/bin/Debug/net6.0/Examples001_HelloCansole.dll
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/bin/Debug/net6.0/Examples001_HelloCansole.pdb
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.csproj.AssemblyReference.cache
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.AssemblyInfoInputs.cache
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.AssemblyInfo.cs
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.csproj.CoreCompileInputs.cache
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.dll
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/refint/Examples001_HelloCansole.dll
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.pdb
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/Examples001_HelloCansole.genruntimeconfig.cache
+/Users/sergeyvaev/Desktop/Examples/Examples001_HelloCansole/obj/Debug/net6.0/ref/Examples001_HelloCansole.dll
